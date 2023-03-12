@@ -12,35 +12,35 @@
 //	<4>Constructor never contain any written type including 'void'.
 
 
-//class Aman
-//{
-//	int a,z;
-//	String b;
-//	
-//	Aman()
-//	{
-//		a=1; b=null;
-//		z = a + 1;
-//	}
-//	
-//	public void display()
-//	{
-//		System.out.println(z+" "+b);
-//		
-//	}
-//}
-//
-// class main {
-//
-//	public static void main(String[] args) {
-//		
-//		Aman a = new Aman();
-//		
-//		a.display();
-//
-//	}
-//
-//}
+class Aman
+{
+	int a,z;
+	String b;
+	
+	Aman()
+	{
+		a=1; b=null;
+		z = a + 1;
+	}
+	
+	public void display()
+	{
+		System.out.println(z+" "+b);
+		
+	}
+}
+
+class main {
+
+	public static void main(String[] args) {
+		
+		Aman a = new Aman();
+		
+		a.display();
+
+	}
+
+}
 
 //========================default constructor=====================
 
