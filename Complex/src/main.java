@@ -79,7 +79,7 @@ Enter:-
  4.Division
 1
 Additions of to complex number is  5.0 + 6.0 i
-
+==================================================
 Enter real part of the complex number
 2
 Enter imaginary part of the complex number 
@@ -96,4 +96,5 @@ Enter:-
  4.Division
 2
 Subtraction of to complex number is  0.0 + 4.0 i
+=====================================================
 */
