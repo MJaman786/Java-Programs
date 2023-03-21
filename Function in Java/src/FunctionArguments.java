@@ -35,12 +35,12 @@ class FunctionArguments {
         int ch;
         do{
             System.out.println("================== Types of Operations ==================");
-            System.out.println("1.Give Input (x,y)");
-            System.out.println("2.Addition");
-            System.out.println("3.Subtraction");
-            System.out.println("4.Multiplcation");
-            System.out.println("5.Division");
-            System.out.println("6.Modulo");
+            System.out.print("1.Give Input (x,y)"+"\t\t");
+            System.out.print("2.Addition\n");
+            System.out.print("3.Subtraction\t\t");
+            System.out.print("4.Multiplcation\n");
+            System.out.print("5.Division\t\t");
+            System.out.print("6.Modulo\n");
             System.out.println("Enter your choice = ");
             ch =sc.nextInt();
             
@@ -74,145 +74,96 @@ class FunctionArguments {
     }
 }
 /*
-OUTPUT = 
+ * OUTPUT
 ================== Types of Operations ==================
-1.Give Input (x,y)  
-2.Addition
-3.Subtraction       
-4.Multiplcation     
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation   
+5.Division              6.Modulo
 Enter your choice = 
 1
-Enter number 1 = 2
+Enter number 1 = 10
 Enter number 2 = 5
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 2
-Addition is = 7.0
+Addition is = 15.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 3
-Subtraction is = -3.0
+Subtraction is = 5.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 4
-Multiplication is = 10.0
+Multiplication is = 50.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 5
-Division is = 0.4
+Division is = 2.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
-Enter your choice =
-6
-Modulo is = 2.0
-================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
-Enter your choice =
-1 
-Enter number 1 = 2
-Enter number 2 = 2
-================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 6
 Modulo is = 0.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
+Enter your choice =
+1
+Enter number 1 = -9
+Enter number 2 = -2
+================== Types of Operations ==================
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 2
-Addition is = 4.0
+Addition is = -11.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 3
-Subtraction is = 0.0
+Subtraction is = -7.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 4
-Multiplication is = 4.0
+Multiplication is = 18.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 5
-Division is = 1.0
+Division is = 4.5
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 6
-Modulo is = 0.0
+Modulo is = -1.0
 ================== Types of Operations ==================
-1.Give Input (x,y)
-2.Addition
-3.Subtraction
-4.Multiplcation
-5.Division
-6.Modulo
+1.Give Input (x,y)              2.Addition
+3.Subtraction           4.Multiplcation
+5.Division              6.Modulo
 Enter your choice =
 */
